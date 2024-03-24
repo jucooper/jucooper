@@ -1,5 +1,5 @@
 
-# Hey, I'm Justin
+## Hey, I'm Justin
 
 <p align="center">
   <samp>
@@ -8,7 +8,7 @@
 </p>
 
 
-## My tech stack
+### My tech stack
 ![Go](https://img.shields.io/badge/-Go-000?&logo=Go)
 ![React](https://img.shields.io/badge/-React-000?&logo=React)
 ![JavaScript](https://img.shields.io/badge/-JavaScript-000?&logo=JavaScript)
