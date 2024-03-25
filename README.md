@@ -3,10 +3,11 @@
 
 <p align="center">
   <samp>
-    A Full Stack Software Engineer, Team Lead, an Alumnus of Florida Gulf Coast University.
+    A Full Stack Software Engineer, Team Lead, and Alumnus of Florida Gulf Coast University.
   </samp>
 </p>
 
+<hr>
 
 ### My tech stack
 ![Go](https://img.shields.io/badge/-Go-000?&logo=Go)
@@ -31,9 +32,9 @@
 <p align="center">
     <br>
     <a href="https://www.linkedin.com/in/justinwesleycooper">
-        <img alt="LinkedIn" title="LinkedIn" height="48" width="48" src="https://cdn.simpleicons.org/linkedin">
+        <img alt="LinkedIn" title="LinkedIn" height="38" width="38" src="https://cdn.simpleicons.org/linkedin/black/white">
     </a>
     <a href="mailto:justinwcooper@outlook.com">
-            <img alt="LinkedIn" title="LinkedIn" height="48" width="48" src="https://cdn.simpleicons.org/microsoftoutlook">
+            <img alt="LinkedIn" title="LinkedIn" height="38" width="38" src="https://cdn.simpleicons.org/microsoftoutlook/black/white">
     </a>
 </p>
