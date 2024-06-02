@@ -27,14 +27,3 @@
 ![Git](https://img.shields.io/badge/-Git-000?&logo=git)
 ![GitHub](https://img.shields.io/badge/-GitHub-000?&logo=GitHub)
 ![VS Code](https://img.shields.io/badge/-Visual%20Studio%20Code-000?&logo=Visual%20Studio%20Code)
-
-<hr>
-<p align="center">
-    <br>
-    <a href="https://www.linkedin.com/in/justinwesleycooper">
-        <img alt="LinkedIn" title="LinkedIn" height="38" width="38" src="https://cdn.simpleicons.org/linkedin/black/white">
-    </a>
-    <a href="mailto:justinwcooper@outlook.com">
-            <img alt="LinkedIn" title="LinkedIn" height="38" width="38" src="https://cdn.simpleicons.org/microsoftoutlook/black/white">
-    </a>
-</p>
